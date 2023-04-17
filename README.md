@@ -1,1 +1,1 @@
-# Tri-ngulo_POO_orig
+# Triangulo_POO_orig
